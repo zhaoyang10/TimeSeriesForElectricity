@@ -1,0 +1,13 @@
+Hashing Time: 752
+Gap Computing Time (1%): 952
+Hashing Time: 488
+Gap Computing Time (1%): 524
+Hashing Time: 353
+Gap Computing Time (1%): 265
+Hashing Time: 36
+Gap Computing Time (1%): 7
+Hashing Time: 3
+Gap Computing Time (1%): 0
+----------------------------------------
+Rand Index: 0
+----------------------------------------
